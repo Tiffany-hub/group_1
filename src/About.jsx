@@ -1,10 +1,10 @@
 import React from "react";
 import "./About.css";
-import ArcticMONKEYS from '/home/user/development/test/Grabzzz/src/assets/ARCTIC MONKEYS 19 © stefano masselli 1.png'
-import Rectangle13 from '/home/user/development/test/Grabzzz/src/assets/Rectangle 13.png'
-import ElementFestival from '/home/user/development/test/Grabzzz/src/assets/808 Festival 2.png'
-import Vector from '/home/user/development/test/Grabzzz/src/assets/Vector.png'
-import Crowd from '/home/user/development/test/Grabzzz/src/assets/HD wallpaper_ silhouette of people inside stage, human, person, crowd, concert 1.png'
+import ArcticMONKEYS from '/home/user/development/test/Grabzzz/group_1/src/assets/ARCTIC MONKEYS 19 © stefano masselli 1.png'
+import Rectangle13 from '/home/user/development/test/Grabzzz/group_1/src/assets/Rectangle 13.png'
+import ElementFestival from '/home/user/development/test/Grabzzz/group_1/src/assets/808 Festival 2.png'
+import Vector from '/home/user/development/test/Grabzzz/group_1/src/assets/Vector.png'
+import Crowd from '/home/user/development/test/Grabzzz/group_1/src/assets/HD wallpaper_ silhouette of people inside stage, human, person, crowd, concert 1.png'
 
 export default function App() {
   return (
