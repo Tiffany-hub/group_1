@@ -1,0 +1,191 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .all-\[unset\] {
+        all: unset;
+    }
+}
+
+/* .Desktop---4 {
+  width: 1440px;
+  height: 1048px;
+  flex-grow: 0;
+  padding: 10px 0 40px;
+  background-color: #e3e7f3;
+}
+
+.GRABZZZ {
+  width: 280px;
+  height: 58px;
+  margin: 0 185px 8px 13px;
+  font-family: Karma;
+  font-size: 40px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #6881cd;
+}
+
+.GRABZZZ .text-style-1 {
+  font-family: JacquesFrancoisShadow;
+  font-size: 96px;
+  font-weight: normal;
+}
+
+.About {
+  width: 127px;
+  height: 48px;
+  margin: 3px 51px 15px 83px;
+  font-family: Playball;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.Products {
+  width: 171px;
+  height: 53px;
+  margin: 0 83px 13px 417px;
+  font-family: Playball;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+.Welcome-to-Grabzzz--Your-Gateway-to-Unforgettable-Experiences {
+  width: 728px;
+  height: 39px;
+  font-family: Karma;
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+.D-wallpaper_-silhouette-of-people-inside-stage-human-person-crowd-concert-1 {
+  object-fit: contain;
+  -webkit-filter: blur(4px);
+  filter: blur(4px);
+}
+
+.Rectangle-13 {
+  width: 1252px;
+  height: 192px;
+  padding: 11px 80px 57px 85px;
+  background-color: rgba(217, 217, 217, 0.7);
+}
+
+.Rectangle-31 {
+  width: 884px;
+  height: 48px;
+  margin: 0 104px 6px 99px;
+  padding: 5px 78px 4px;
+  background-color: rgba(188, 150, 150, 0.7);
+}
+
+.Enabling-unforgettable-memories-through-seamless-access-to-extraordinary-global-events {
+  width: 1087px;
+  height: 70px;
+  margin: 6px 0 0;
+  font-family: Karma;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+.About-Grabzzz {
+  width: 187px;
+  height: 38px;
+  margin: 9px 32px 9px 4px;
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: condensed;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #bc9696;
+}
+
+img.ARCTIC-MONKEYS-19-stefano-masselli-1 {
+  width: 182px;
+  height: 240px;
+  margin: 9px 37px 5px 4px;
+  object-fit: contain;
+}
+
+img.-Festival-2 {
+  width: 214px;
+  height: 240px;
+  margin: 9px 41px 5px 32px;
+  object-fit: contain;
+}
+
+.At-Grabzzz-we-believe-that-every-moment-is-an-opportunity-for-an-unforgettable-experience-Were-he {
+  width: 930px;
+  height: 198px;
+  margin: 32px 32px 24px 41px;
+  font-family: Karma;
+  font-size: 24px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.Our-Vision {
+  width: 178px;
+  height: 43px;
+  margin: 5px 32px 0 13px;
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: condensed;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #bc9696;
+}
+
+.Our-vision-is-to-become-the-go-to-destination-for-event-enthusiasts-worldwide-We-strive-to-offer-an {
+  width: 858px;
+  height: 174px;
+  margin: 48px 240px 0 10px;
+  padding: 45.5px 258px 98.5px 468px;
+  font-family: Karma;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+   */
