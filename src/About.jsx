@@ -4,13 +4,15 @@ import ArcticMONKEYS from '/home/user/development/test/Grabzzz/group_1/src/asset
 import Rectangle13 from '/home/user/development/test/Grabzzz/group_1/src/assets/Rectangle 13.png'
 import ElementFestival from '/home/user/development/test/Grabzzz/group_1/src/assets/808 Festival 2.png'
 import Vector from '/home/user/development/test/Grabzzz/group_1/src/assets/Vector.png'
-import Crowd from '/home/user/development/test/Grabzzz/group_1/src/assets/HD wallpaper_ silhouette of people inside stage, human, person, crowd, concert 1.png'
+// import Crowd from 'src/assets/HD wallpaper_ silhouette of people inside stage, human, person, crowd, concert 1.png'
+import People from './assets/Vector.png'
 
 export default function App() {
   return (
     <div className="bg-[#e3e7f3] flex flex-row justify-center w-full">
       <div className="bg-[#e3e7f3] overflow-hidden w-[1440px] h-[1048px] relative">
-        <div className="absolute w-[1440px] h-[422px] top-[72px] left-0 bg-cover" style={{ backgroundImage: `url(${Crowd})`, backgroundPosition: '50% 50%' }}>
+        <div className="absolute w-[1440px] h-[422px] top-[72px] left-0 bg-cover" style={{ backgroundImage: `url(${People})`, backgroundSize: 'cover', backgroundPosition: '50% 50%', background: ''}}>
+          
           <div className="absolute w-[1252px] h-[192px] top-[87px] left-[94px] bg-[#d9d9d9b2]" />
           <div className="absolute w-[884px] h-[48px] top-[98px] left-[278px] bg-[#bc9595b2]" />
           <p className="absolute h-[39px] top-[102px] left-[356px] font-bold text-white text-[24px] tracking-[0] leading-[normal]">
@@ -552,93 +554,6 @@ export default function App() {
 // // }
 
 // // export default Welcome; // Export the component
-
-
-// // import React from "react";
-// // // import "./App.css";
-
-// // export const Desktop = () => {
-// //     return (
-// //         <div className="desktop">
-// //             <div className="div">
-// //                 <div className="overlap-group">
-// //                     <div className="rectangle" />
-// //                     <div className="rectangle-2" />
-// //                     <p className="text-wrapper">Welcome to Grabzzz- Your Gateway to Unforgettable Experiences!</p>
-// //                     <p className="enabling">
-// //                         Enabling unforgettable memories through seamless access to extraordinary <br />
-// //                         global events.
-// //                     </p>
-// //                 </div>
-// //                 <div className="text-wrapper-2">Products</div>
-// //                 <div className="text-wrapper-3">About</div>
-// //                 <img className="vector" alt="Vector" src="vector.svg" />
-// //                 <div className="text-wrapper-4">About Grabzzz</div>
-// //                 <img className="img" alt="Rectangle" src="rectangle-13.svg" />
-// //                 <img className="ARCTIC-MONKEYS" alt="Arctic MONKEYS" src="ARCTIC-MONKEYS-19-stefano-masselli-1.png" />
-// //                 <img className="element-festival" alt="Element festival" src="808-festival-2.png" />
-// //                 <p className="at-grabzzz-we">
-// //                     At Grabzzz, we believe that every moment is an opportunity for an unforgettable experience. We&#39;re here to
-// //                     connect you with the hottest tickets to the most sought-after events, from electrifying concerts to glamorous
-// //                     award shows. Our platform is designed with a singular purpose: to make sure you never miss out on the events
-// //                     that matter most to you.
-// //                 </p>
-// //                 <div className="text-wrapper-5">Our Vision</div>
-// //                 <p className="our-vision-is-to">
-// //                     Our vision is to become the go-to destination for event enthusiasts worldwide. We strive to offer an
-// //                     unparalleled level of access to a diverse range of events, ensuring that everyone can find their perfect
-// //                     experience, whether it&#39;s front-row at a fashion show, cheering for your favorite artist, or rubbing
-// //                     shoulders with the stars at a red-carpet event. We envision a world where Grabzzz is synonymous with
-// //                     extraordinary moments.
-// //                 </p>
-// //                 <p className="GRABZZZ">
-// //                     <span className="span">G</span>
-// //                     <span className="text-wrapper-6">GRABZZZ</span>
-// //                 </p>
-// //             </div>
-// //         </div>
-// //     );
-// // };
-
-
-
-// // import { useState } from 'react'
-// // import reactLogo from './assets/react.svg'
-// // import viteLogo from '/vite.svg'
-// // import './App.css'
-
-// // function App() {
-// //   const [count, setCount] = useState(0)
-
-// //   return (
-// //     <>
-// //       <div>
-// //         <a href="https://vitejs.dev" target="_blank">
-// //           <img src={viteLogo} className="logo" alt="Vite logo" />
-// //         </a>
-// //         <a href="https://react.dev" target="_blank">
-// //           <img src={reactLogo} className="logo react" alt="React logo" />
-// //         </a>
-// //       </div>
-// //       <h1>Vite + React</h1>
-// //       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi debitis eveniet ipsum, assumenda unde veniam illum, doloremque aliquid ipsam fugiat voluptatibus, possimus at laudantium dolorem.</p>
-// //       <div className="card">
-// //         <button onClick={() => setCount((count) => count + 1)}>
-// //           count is {count}
-// //         </button>
-// //         <p>
-// //           Edit <code>src/App.jsx</code> and save to test HMR
-// //         </p>
-// //       </div>
-// //       <p className="read-the-docs">
-// //         Click on the Vite and React logos to learn more
-// //       </p>
-// //     </>
-// //   )
-// // }
-
-// // export default App
-
 
 
 // export default function App() {
